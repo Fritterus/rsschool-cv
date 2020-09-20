@@ -2,7 +2,7 @@
 
 ## Contact info
  + Telegram [thyraz](httpst.methyraz)
- + E-mail [mr.egorka.kardash.1999@gmail.com](mailtomr.egorka.kardash.1999@gmail.com)
+ + E-mail [mr.egorka.kardash.1999@gmail.com](mailto:mr.egorka.kardash.1999@gmail.com)
  
  ## Summary
  In case of lack of experience  Junior Developer sells hisher potential, hisher passion and ability to learn fast. You shouldn't think that everybody is going to teach you when you come to the workplace . Rather being a Junior means always
@@ -23,7 +23,7 @@ learning new things from everywhere etc.
   + 2020 RS School Front-End Developement (HTML, CSS, JavaScript)
  
  ## Code examples
- Some examples you can see on my github [Fritterus](httpsgithub.comFritterus)
+ Some examples you can see on my github [Fritterus](https://github.com/Fritterus)
  
  ## English level
- My English level is A2. Passed a test on [training.by](httpstraining.by)
+ My English level is A2. Passed a test on [training.by](https://training.by)
