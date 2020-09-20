@@ -1,0 +1,18 @@
+.main {
+	position: relative;
+	width: 1024px;
+	margin-right: auto;
+	margin-left: auto;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+}
+
+.photo {
+	position: absolute;
+	width: 320px;
+	top: 5vh;
+	left: 25vw;
+	height: 180px;
+	float: right;
+}
